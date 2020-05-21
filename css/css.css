@@ -1,0 +1,163 @@
+html {font-family: consolas;
+	max-height: 100%;
+height: 10000px;}
+
+body {
+	height: 100%;
+	margin:0;}
+
+* {box-sizing: border-box;}
+
+header {
+	padding: 1rem 0;
+	background-color: black;
+}
+
+.fejlec {
+    width: 90%;
+    margin:0 25px 0 50px;
+}
+
+.logo {
+	font-size: 3rem;
+	font-weight: 400;
+	display: inline;
+	color: white;
+}
+
+nav {float: right;
+padding-top: 15px;}
+
+nav a {display: inline-block;
+color: white;
+margin: 0 0 0 1rem;
+font-size: 30px;
+text-decoration: none;}
+
+.j{width: 90%;
+max-width: 1280px;
+text-align: center;
+padding-top: 100px;
+margin: auto;}
+
+.en{position: relative;
+overflow: hidden;
+display: inline-block;
+width: 300px;
+height: 300px;
+margin: auto;
+border-radius: 300px;
+text-align: center;
+}
+
+.nev {font-size: 4rem;
+margin-top: 30px;
+margin-bottom: 10px;
+color: white;
+line-height: 1.5;
+}
+
+.z {text-align: center;
+	font-size: 2rem;
+	color: white;
+}
+
+.kep {
+	text-align: center;
+	width: 50px;
+	height: 50px;
+	display: inline;
+	background: transparent;
+	fill: white;
+	position: relative;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.link {margin: 0 20px}
+
+.c{margin: 0 20px;
+text-decoration: none;}
+
+.c p {display: inline;
+color: grey;
+size: 30px;}
+
+.q {
+height: 100%;
+background-image: url('../pics/1234.jpg');
+text-align: center;
+}
+
+
+.nap {font-size: 30px;
+	padding-top: 25px;
+	margin-top:0;
+	margin-bottom: 25px;
+	margin-left: 25px
+}
+
+.t {color: white;
+background-image: url('../pics/1234.jpg');
+background-repeat: repeat;
+}
+
+.w {font-size: 20px;
+	padding-left: 25px;
+
+}
+
+.u {margin-left: 15px;
+	font-size: 25px;
+text-decoration: underline;}
+
+
+.isk {font-size: 15px;
+margin-left:20px;}
+
+.m{color: grey;}
+
+.prj {margin-left: 15px;
+	font-size: 25px;
+text-decoration: underline;}
+
+.projekt {font-size: 15px;
+margin-left:20px;}
+
+.v{font-size: 17px}
+
+.r {max-width: 100%;
+    margin: 0;
+background-image: url(../pics/1234.jpg);}
+
+.hobbi {margin: 3rem;
+color: white;}
+
+.bejegyzes {width: 70%;
+float: left;
+box-sizing: border-box;
+}
+
+article {margin: 0 0 1.5rem 1.5rem;
+background: rgba(0,0,0,0.5);
+padding: 1rem}
+
+.k {max-width: 100px;
+max-height: 100px;
+float: left;}
+
+.cikk {margin-left: 120px;}
+
+.l {text-decoration: none;
+color: grey;}
+
+.cikk p {font-size: 17px;}
+
+.n{padding-left: 25px;
+}
+
+.o{color: grey;}
+
+
+
+
